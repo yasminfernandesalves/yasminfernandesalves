@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yasminfernandesalves
 - 👀 I’m interested in technology and art
 - 🌱 I’m currently learning how to program
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love cats and anime :)
 
 <!---
