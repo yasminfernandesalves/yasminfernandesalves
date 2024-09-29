@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Yasmin Alves</h1>
+<h1 align="center"> Yasmin Alves </h1>
 <h3 align="center">An IT student trying to learn everything starting from scratch.!</h3>
 
 -  I’m currently learning **programing**
@@ -18,14 +18,12 @@
 <h3 align="left">Meus status:</h3>
 <p align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminfernandesalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminfernandesalves&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)
 
 <h3 align="left">Linguagens mais usadas:</h3>
 <p align="left">
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yasminfernandesalves&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-<!---
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yasminfernandesalves&layout=compact&bg_color=000&border_color=0000&title_color=E94D5F&text_color=FFF)
 yasminfernandesalves/yasminfernandesalves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
