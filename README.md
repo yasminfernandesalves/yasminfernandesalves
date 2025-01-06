@@ -20,7 +20,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasminfernandesalves&theme=transparent&bg_color=000&border_color=000&show_icons=true&icon_color=E94D5F&title_color=E94D5F&text_color=FFF)
 
-<h3 align="left">Linguagens mais usadas:</h3>
-<p align="left">
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yasminfernandesalves&layout=compact&bg_color=000&border_color=0000&title_color=E94D5F&text_color=FFF)
